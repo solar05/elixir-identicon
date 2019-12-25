@@ -1,4 +1,5 @@
 # Identicon
+[![Build Status](https://travis-ci.org/solar05/elixir-identicon.svg?branch=master)](https://travis-ci.org/solar05/elixir-identicon)
 
 **An app thats generates identicon like in github.**
 
