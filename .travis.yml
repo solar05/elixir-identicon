@@ -4,4 +4,4 @@ elixir: '1.9.4'
 before_script:
   - mix compile
 
-script: make lint test
+script: make lint tests
