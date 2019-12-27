@@ -1,4 +1,4 @@
 lint:
-    mix credo --strict
-test:
-    mix test
+	mix credo --strict
+tests:
+	mix test
